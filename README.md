@@ -1,2 +1,2 @@
-# lavender-php
+# Lavender
 PHP Template engine loosely based on Pug
