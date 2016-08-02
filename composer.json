@@ -1,0 +1,17 @@
+{
+    "name": "eflynn/lavender",
+    "description": "PHP Template engine loosely based on Pug",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Evan Flynn",
+            "email": "evan.flynn@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Lavender\\": "src/Lavender/"
+        }
+    }
+}
